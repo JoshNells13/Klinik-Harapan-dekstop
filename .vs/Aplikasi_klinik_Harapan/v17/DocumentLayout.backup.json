@@ -1,0 +1,1254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\jadwaldokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\jadwaldokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\dashboard\\dashboardapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\dashboard\\dashboardapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajemenkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\aplikasi_klinik_harapan.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\aplikasi_klinik_harapan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajemenkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenkaryawan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajemenkamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenkamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajemenpembayaranrawatina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenpembayaranrawatina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajemenpembayaranrawatina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenpembayaranrawatina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajemenapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajemenapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajemenrawatinap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenrawatinap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\jadwaldokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\jadwaldokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajemenobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajemenresep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenresep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajemenobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajemenpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajemenpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajementipekamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajementipekamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajementipekamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajementipekamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajementransaksiobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajementransaksiobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajementransaksiobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajementransaksiobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajemenresep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenresep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajemenrawatinap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenrawatinap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajemenkamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenkamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajemendokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemendokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajemendokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemendokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\manajemenantrian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenantrian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\manajemenantrian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\manajemenantrian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\detailtransaksiobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\detailtransaksiobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\detailtransaksiobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\detailtransaksiobat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\daftarpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\daftarpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\halamanpengguna\\pasien_rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamanpengguna\\pasien_rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\halamanpengguna\\pasien_rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamanpengguna\\pasien_rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\halamanpengguna\\pasien_jadwaldokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamanpengguna\\pasien_jadwaldokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\halamanpengguna\\pasien_jadwaldokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamanpengguna\\pasien_jadwaldokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\halamandokter\\dokter_rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamandokter\\dokter_rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\halamandokter\\dokter_rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamandokter\\dokter_rekammedis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\halamandokter\\dokter_rawatinap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamandokter\\dokter_rawatinap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\halamandokter\\dokter_rawatinap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamandokter\\dokter_rawatinap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\halamandokter\\dokter_jadwalpraktik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamandokter\\dokter_jadwalpraktik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\halamandokter\\dokter_jadwalpraktik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamandokter\\dokter_jadwalpraktik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\dashboard\\dashboarddokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\dashboard\\dashboarddokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\dashboard\\dashboarddokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\dashboard\\dashboarddokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\halamandokter\\dokter_jadwaantrian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamandokter\\dokter_jadwaantrian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\halamandokter\\dokter_jadwaantrian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamandokter\\dokter_jadwaantrian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\dashboard\\dashboardpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\dashboard\\dashboardpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\dashboard\\dashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\dashboard\\dashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\dashboard\\dashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\dashboard\\dashboardadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\dashboard\\dashboardapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\dashboard\\dashboardapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\dashboard\\dashboardpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\dashboard\\dashboardpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\login\\loginpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\login\\loginpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\login\\logindokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\login\\logindokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\login\\loginapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\login\\loginapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\login\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\login\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\password\\passwordadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\password\\passwordadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\daftarpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\daftarpasien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\login\\loginapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\login\\loginapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\login\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\login\\loginadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\password\\passwordapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\password\\passwordapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\password\\passwordapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\password\\passwordapoteker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\password\\passworddokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\password\\passworddokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\aplikasi_klinik_harapan\\password\\passwordpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\password\\passwordpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\password\\passworddokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\password\\passworddokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\password\\passwordadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\password\\passwordadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\login\\loginpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\login\\loginpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\password\\passwordpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\password\\passwordpengguna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\login\\logindokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\login\\logindokter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\halamandokter\\dokter_rekammedis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\halamandokter\\dokter_rekammedis.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|d:\\app_semerbak_joshuacl\\aplikasi_klinik_harapan\\aplikasi_klinik_harapan\\dashboard\\dashboardpasien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19C0D6D6-DD05-45C1-816D-0BF14214E937}|Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj|solutionrelative:aplikasi_klinik_harapan\\dashboard\\dashboardpasien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 229,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 351,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Koneksi.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Koneksi.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Koneksi.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:14:53.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Aplikasi_klinik_Harapan.csproj",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T13:30:37.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DashboardAdmin.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardAdmin.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardAdmin.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardAdmin.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardAdmin.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAtwJAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:28:48.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Aplikasi_klinik_Harapan",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T10:21:35.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Login.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:25:40.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManajemenTransaksiObat.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenTransaksiObat.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenTransaksiObat.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenTransaksiObat.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenTransaksiObat.cs",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAIwH4BAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:09:06.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManajemenTipeKamar.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenTipeKamar.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenTipeKamar.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenTipeKamar.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenTipeKamar.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwJ8AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:08:45.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManajemenResep.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenResep.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenResep.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenResep.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenResep.cs",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAcwHUBAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:07:20.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DashboardApoteker.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardApoteker.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardApoteker.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardApoteker.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardApoteker.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwIEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:04:07.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManajemenPembayaranRawatIna.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenPembayaranRawatIna.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenPembayaranRawatIna.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenPembayaranRawatIna.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenPembayaranRawatIna.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAApwD4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:59:20.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Program.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Program.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Program.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:28:19.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManajemenObat.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenObat.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenObat.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenObat.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenObat.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAUwBYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:21:57.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManajemenKaryawan.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenKaryawan.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenKaryawan.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenKaryawan.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenKaryawan.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAqwPEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:19:26.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManajemenKamar.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenKamar.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenKamar.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenKamar.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenKamar.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAvwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:18:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DetailTransaksiObat.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\DetailTransaksiObat.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\DetailTransaksiObat.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\DetailTransaksiObat.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\DetailTransaksiObat.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAcwJ4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:28:11.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DaftarPasien.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\DaftarPasien.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\DaftarPasien.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\DaftarPasien.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\DaftarPasien.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAMwKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:26:31.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ManajemenPasien.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenPasien.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenPasien.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenPasien.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenPasien.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAnwPwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:26:52.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "LoginDokter.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Login\\LoginDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginDokter.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Login\\LoginDokter.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwCwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:25:34.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PasswordApoteker.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordApoteker.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Password\\PasswordApoteker.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordApoteker.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Password\\PasswordApoteker.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAFQAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:24:41.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "LoginApoteker.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginApoteker.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Login\\LoginApoteker.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginApoteker.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Login\\LoginApoteker.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:23:16.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginAdmin.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginAdmin.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Login\\LoginAdmin.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginAdmin.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Login\\LoginAdmin.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAMwFUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:18:59.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PasswordDokter.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Password\\PasswordDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordDokter.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Password\\PasswordDokter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:13:14.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PasswordAdmin.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordAdmin.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Password\\PasswordAdmin.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordAdmin.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Password\\PasswordAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:13:07.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ManajemenDokter.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenDokter.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenDokter.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAjwMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:28:55.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManajemenApoteker.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenApoteker.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenApoteker.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenApoteker.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenApoteker.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAIA0wK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:20:44.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Dokter_RekamMedis.Designer.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.Designer.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.Designer.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.Designer.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:13:52.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Dokter_RekamMedis.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAtwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:10:55.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManajemenRawatInap.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenRawatInap.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenRawatInap.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenRawatInap.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenRawatInap.cs",
+              "ViewState": "AgIAANkBAAAAAAAAAAAUwO8BAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:58:15.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DashboardDokter.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardDokter.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardDokter.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAIAwwIcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T23:29:04.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Dokter_RawatInap.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RawatInap.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RawatInap.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RawatInap.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RawatInap.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAD4v10AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:34:47.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Dokter_JadwalPraktik.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwalPraktik.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwalPraktik.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwalPraktik.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwalPraktik.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAtwEcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:34:41.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Dokter_JadwaAntrian.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwaAntrian.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwaAntrian.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwaAntrian.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwaAntrian.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:34:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ManajemenAntrian.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenAntrian.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenAntrian.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenAntrian.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenAntrian.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAIAwwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:33:25.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "DashboardPasien.Designer.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.Designer.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.Designer.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.Designer.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAKBrwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:44:15.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RekamMedis.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\RekamMedis.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\RekamMedis.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\RekamMedis.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\RekamMedis.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAD4v+QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:34:06.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Pasien_RekamMedis.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_RekamMedis.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_RekamMedis.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_RekamMedis.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_RekamMedis.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAUwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:33:34.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "PasswordPengguna.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordPengguna.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Password\\PasswordPengguna.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordPengguna.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Password\\PasswordPengguna.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:31:03.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JadwalDokter.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\JadwalDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\JadwalDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\JadwalDokter.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\JadwalDokter.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAD4v9QAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:21:27.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "LoginPengguna.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginPengguna.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Login\\LoginPengguna.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginPengguna.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Login\\LoginPengguna.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAASwCUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:20:43.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DashboardPasien.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:19:58.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Pasien_JadwalDokter.cs",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_JadwalDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_JadwalDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_JadwalDokter.cs",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_JadwalDokter.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:31:51.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManajemenKaryawan.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenKaryawan.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenKaryawan.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenKaryawan.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenKaryawan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:19:22.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Login.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:25:36.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManajemenTransaksiObat.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenTransaksiObat.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenTransaksiObat.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenTransaksiObat.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenTransaksiObat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T04:09:03.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManajemenTipeKamar.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenTipeKamar.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenTipeKamar.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenTipeKamar.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenTipeKamar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:28:18.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManajemenPembayaranRawatIna.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenPembayaranRawatIna.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenPembayaranRawatIna.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenPembayaranRawatIna.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenPembayaranRawatIna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:25:57.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManajemenKamar.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenKamar.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenKamar.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenKamar.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenKamar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:18:03.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DetailTransaksiObat.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\DetailTransaksiObat.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\DetailTransaksiObat.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\DetailTransaksiObat.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\DetailTransaksiObat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T13:28:09.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManajemenPasien.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenPasien.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenPasien.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenPasien.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenPasien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:26:50.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoginDokter.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Login\\LoginDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginDokter.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Login\\LoginDokter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:25:32.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LoginApoteker.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginApoteker.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Login\\LoginApoteker.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginApoteker.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Login\\LoginApoteker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:23:14.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LoginAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginAdmin.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Login\\LoginAdmin.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginAdmin.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Login\\LoginAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:18:57.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PasswordDokter.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Password\\PasswordDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordDokter.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Password\\PasswordDokter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:10:35.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "PasswordApoteker.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordApoteker.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Password\\PasswordApoteker.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordApoteker.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Password\\PasswordApoteker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T12:10:21.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManajemenApoteker.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenApoteker.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenApoteker.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenApoteker.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenApoteker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:25:18.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Dokter_RekamMedis.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RekamMedis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:08:55.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DaftarPasien.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\DaftarPasien.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\DaftarPasien.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\DaftarPasien.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\DaftarPasien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:42:12.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManajemenRawatInap.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenRawatInap.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenRawatInap.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenRawatInap.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenRawatInap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:12:23.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Dokter_RawatInap.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RawatInap.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RawatInap.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RawatInap.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_RawatInap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:02:36.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Dokter_JadwalPraktik.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwalPraktik.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwalPraktik.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwalPraktik.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwalPraktik.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:02:28.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Dokter_JadwaAntrian.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwaAntrian.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwaAntrian.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwaAntrian.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanDokter\\Dokter_JadwaAntrian.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:02:04.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DashboardPasien.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardPasien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:43:15.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PasswordAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordAdmin.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Password\\PasswordAdmin.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordAdmin.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Password\\PasswordAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:35:10.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "PasswordPengguna.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordPengguna.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Password\\PasswordPengguna.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Password\\PasswordPengguna.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Password\\PasswordPengguna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:31:02.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ManajemenDokter.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenDokter.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenDokter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:21:17.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LoginPengguna.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginPengguna.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Login\\LoginPengguna.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Login\\LoginPengguna.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Login\\LoginPengguna.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:20:41.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardApoteker.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardApoteker.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardApoteker.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardApoteker.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardApoteker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:15:49.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManajemenResep.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenResep.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenResep.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenResep.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenResep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:15:20.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DashboardDokter.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardDokter.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardDokter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:15:11.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DashboardAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardAdmin.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardAdmin.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\Dashboard\\DashboardAdmin.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\Dashboard\\DashboardAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:14:31.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ManajemenObat.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenObat.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenObat.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenObat.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenObat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:27:17.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RekamMedis.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\RekamMedis.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\RekamMedis.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\RekamMedis.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\RekamMedis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:32:35.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Pasien_RekamMedis.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_RekamMedis.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_RekamMedis.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_RekamMedis.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_RekamMedis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:32:29.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JadwalDokter.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\JadwalDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\JadwalDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\JadwalDokter.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\JadwalDokter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:30:58.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Pasien_JadwalDokter.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_JadwalDokter.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_JadwalDokter.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_JadwalDokter.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\HalamanPengguna\\Pasien_JadwalDokter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:30:36.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ManajemenAntrian.cs [Design]",
+              "DocumentMoniker": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenAntrian.cs",
+              "RelativeDocumentMoniker": "Aplikasi_klinik_Harapan\\ManajemenAntrian.cs",
+              "ToolTip": "D:\\App_semerbak_JoshuaCL\\Aplikasi_klinik_Harapan\\Aplikasi_klinik_Harapan\\ManajemenAntrian.cs [Design]",
+              "RelativeToolTip": "Aplikasi_klinik_Harapan\\ManajemenAntrian.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:28:52.03Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 49,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

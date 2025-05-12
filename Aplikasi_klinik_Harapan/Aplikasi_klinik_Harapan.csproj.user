@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\App_semerbak_JoshuaCL\Aplikasi_klinik_Harapan\Aplikasi_klinik_Harapan\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="DaftarPasien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\DashboardAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\DashboardApoteker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\DashboardDokter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard\DashboardPasien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetailTransaksiObat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HalamanDokter\Dokter_JadwaAntrian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HalamanDokter\Dokter_JadwalPraktik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HalamanDokter\Dokter_RawatInap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HalamanDokter\Dokter_RekamMedis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HalamanPengguna\Pasien_JadwalDokter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HalamanPengguna\Pasien_RekamMedis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JadwalDokter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\LoginAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\LoginApoteker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\LoginDokter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login\LoginPengguna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenAntrian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenApoteker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenDokter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenKamar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenKaryawan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenObat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenPasien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenPembayaranRawatIna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenRawatInap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenResep.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenTipeKamar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManajemenTransaksiObat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Password\PasswordAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Password\PasswordApoteker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Password\PasswordDokter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Password\PasswordPengguna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RekamMedis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
